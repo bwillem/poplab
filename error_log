@@ -1,0 +1,22 @@
+[02-Feb-2016 21:50:18] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 29
+[02-Feb-2016 21:54:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 29
+[02-Feb-2016 21:55:34] PHP Fatal error:  Call to undefined function  wp_mail() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 29
+[02-Feb-2016 21:59:38] PHP Fatal error:  Call to undefined function  wp_mail() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 28
+[02-Feb-2016 22:01:54] PHP Fatal error:  Call to undefined function  wp_mail() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 28
+[02-Feb-2016 22:11:44] PHP Parse error:  syntax error, unexpected '}' in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 26
+[02-Feb-2016 22:16:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 24
+[02-Feb-2016 22:16:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 24
+[02-Feb-2016 22:18:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 24
+[02-Feb-2016 22:18:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 24
+[02-Feb-2016 22:24:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 24
+[02-Feb-2016 22:50:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 14
+[02-Feb-2016 22:50:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 14
+[04-Feb-2016 20:01:16] PHP Fatal error:  Call to undefined function  writelog() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 6
+[04-Feb-2016 20:16:51] PHP Warning:  Wrong parameter count for strip_tags() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 7
+[04-Feb-2016 20:21:27] PHP Warning:  Wrong parameter count for strip_tags() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 7
+[04-Feb-2016 20:24:43] PHP Parse error:  syntax error, unexpected ';' in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 40
+[04-Feb-2016 20:28:53] PHP Warning:  Wrong parameter count for strip_tags() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 7
+[04-Feb-2016 20:30:24] PHP Warning:  Wrong parameter count for strip_tags() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 7
+[04-Feb-2016 20:32:58] PHP Warning:  Wrong parameter count for strip_tags() in /home2/semaphor/public_html/poplab/wp-content/themes/poplab/process.php on line 7
+[25-Nov-2016 17:47:19 America/Denver] PHP Notice:  Undefined variable: message in /home2/devantid/public_html/wp-content/themes/poplab/process.php on line 37
+[16-Jan-2017 16:33:12 America/Denver] PHP Notice:  Undefined variable: message in /home2/devantid/public_html/wp-content/themes/poplab/process.php on line 37

@@ -1,0 +1,98 @@
+.pb_main {
+    position: fixed;
+    top: 4vh;
+    width: 98%;
+    height: 95%;
+    background-color: white;
+    z-index: 99999;
+    margin: 0vh 1vw;
+    box-shadow: 0px 0px 20px 0px #7d7979;
+    pointer-events: none;
+    opacity: 0;
+    transition: .5s all;
+    border: 3px solid #a2a2a2;
+}
+.pb_main.viz{
+	opacity: 1;
+	pointer-events: all;
+}
+.pb_worker{
+    display: none;
+}
+button.pb_add-section {
+    width: 100%;
+    background: rgba(211, 211, 211, 0.14);
+    border: none;
+    font-size: 48px;
+    color: gray;
+}
+button.pb_add-section:focus {
+    outline: none;
+}
+.abs-center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% ,-50%);
+}
+span.pb_spinner {
+    font-size: 38px;
+}
+body {
+    background: #f1f1f1;
+}
+.tools {
+    opacity: 0;
+    transition: .3s all;
+    position: absolute;
+    top: -16px;
+    left: -16px;
+}
+.tool-wrap{
+    position: relative;
+    outline: 1px solid lightgray;
+    border: 16px solid rgba(128, 128, 128, 0.15);
+    margin: 8px;
+}
+
+.colWrap {
+    position: relative;
+    border: 16px #ededed solid;
+    outline: 8px #dfdfdf solid;
+}
+
+.tool-wrap:hover {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+}
+.rowWrap .row{
+    margin:0;
+}
+
+.tool-wrap:hover > .tools{
+    opacity: 1;
+}
+.colWrap:hover > .tools{
+    opacity: 1;
+}
+
+.pb_btn-wrap {
+    position: fixed;
+    bottom: 0;
+    background: lightgrey;
+    width: 100%;
+    padding: 8px;
+    left: 0;
+    text-align: center;
+}
+.pb_btn-wrap button{
+    margin: 0 8px;
+}
+
+@keyframes fadeIn {
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}

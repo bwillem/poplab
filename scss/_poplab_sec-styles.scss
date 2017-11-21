@@ -1,0 +1,13 @@
+.pop_services{
+	position: relative;
+}
+.pop_services .service{
+	opacity: 0;
+	margin-top: 100%;
+}
+@media (min-width:992px){
+	.subpage{
+		padding:0% 7%;
+		//min-height: 100%;
+	}
+}
