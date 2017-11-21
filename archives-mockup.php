@@ -12,7 +12,7 @@ get_header(); ?>
 			 	the_content(); 
 			endwhile; endif;
 		?>
-		</div>grrr!
+		</div>
 	
 </div>
 
